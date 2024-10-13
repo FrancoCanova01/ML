@@ -1,0 +1,3 @@
+# Labs
+- [Lab00](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb#scrollTo=OggjLhU3f9gk): The 🥞 Full Stack 🥞 of the Text Recognizer Application
+- [Lab01](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb): Deep Neural Networks in PyTorch
