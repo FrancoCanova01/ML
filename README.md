@@ -5,7 +5,9 @@
 - Models: A repository for theory and code for different models.
 
 ## Setup
-
+```bash
+docker run -it --name github-ml-container -v "%cd%:/usr/src/app/" github-ml-image
+```
 
 
 ## Resources
